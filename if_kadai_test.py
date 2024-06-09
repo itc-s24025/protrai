@@ -1,5 +1,3 @@
-#s24025
-#score評価プログラム
 score=3
 if score >= 80:
         print("優")
@@ -10,4 +8,3 @@ elif score >= 60:
 else:
     score < 60
     print("不可")
-
