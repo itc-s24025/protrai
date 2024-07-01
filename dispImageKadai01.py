@@ -1,4 +1,5 @@
 #s24025
+#画像読み込みアプリ
 #dispImageKadai.py
 
 import tkinter as tk
