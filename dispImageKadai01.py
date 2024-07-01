@@ -21,7 +21,7 @@ def openFile():
         lbl2=tk.Label(text=fpath,font=("Helvetica",20))
         lbl2.pack()
 root =tk.Tk()
-root.geometry("400x350")
+root.geometry("350x350")
 
 lbl=tk.Label(text="画像表示アプリバージョン2.0",font=("Helvetica",20))
 
